@@ -1,0 +1,7 @@
+Target
+
+Inventory:
+Tech tv,200,3
+Clothes apple,10,99
+Clothes t-shirt,15,8
+Tech ipad,1,2
