@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  RepresentativeElection.cpp
+  Homework 2 - Election.cpp
+c:\users\tosha\desktop\programing\homework 2 - election\homework 2 - election\homework 2 - election\homework 2 - election.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ElectoralMap.cpp
+  Election.cpp
+  District.cpp
+  Candidate.cpp
+  Generating Code...
+  Homework 2 - Election.vcxproj -> C:\Users\tosha\Desktop\Programing\Homework 2 - Election\Homework 2 - Election\x64\Debug\Homework 2 - Election.exe

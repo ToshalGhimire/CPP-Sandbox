@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 2 - Election", "Homework 2 - Election\Homework 2 - Election.vcxproj", "{CF2AED60-2BFF-47FD-B2F8-47A39811640C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Debug|x64.ActiveCfg = Debug|x64
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Debug|x64.Build.0 = Debug|x64
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Debug|x86.Build.0 = Debug|Win32
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Release|x64.ActiveCfg = Release|x64
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Release|x64.Build.0 = Release|x64
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Release|x86.ActiveCfg = Release|Win32
+		{CF2AED60-2BFF-47FD-B2F8-47A39811640C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FAE138-B15F-4A4F-9A30-590372703B5B}
+	EndGlobalSection
+EndGlobal
