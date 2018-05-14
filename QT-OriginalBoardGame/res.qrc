@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Sounds">
+        <file>backgroundMusic</file>
+    </qresource>
+    <qresource prefix="/card">
+        <file>CardsFile.csv</file>
+        <file>Coins.png</file>
+        <file>movement.png</file>
+        <file>power.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>backgroundIMG.jpg</file>
+    </qresource>
+</RCC>

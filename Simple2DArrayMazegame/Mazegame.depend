@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1517458465 source:c:\users\tosha\desktop\programing\mazegame\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Maze.h"
+	"Player.h"
+
+1517454956 c:\users\tosha\desktop\programing\mazegame\maze.h
+	<vector>
+	"Player.h"
+
+1517458744 c:\users\tosha\desktop\programing\mazegame\player.h
+	<string>
+
+1517458203 source:c:\users\tosha\desktop\programing\mazegame\maze.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+	"Maze.h"
+	"Player.h"
+
+1517454956 source:c:\users\tosha\desktop\programing\mazegame\player.cpp
+	<vector>
+	<iostream>
+	"Player.h"
+
